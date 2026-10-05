@@ -17,4 +17,4 @@ INSERT INTO users(user_id , name , email , age)
 VALUES (1, 'john done', 'john9900@gmail.com', 25);
 
 
-SELECT * FROM users;
+SELECT * FROM user;
